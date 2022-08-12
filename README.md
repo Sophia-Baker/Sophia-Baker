@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Sophia-Baker
+- 👀 I’m interested in Web Design
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate a new project!
+- 📫 How to reach me ...
